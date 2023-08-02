@@ -1,0 +1,1 @@
+# implementing-crm-for-result-tracking-of-a-candidte-with-internal-marks
